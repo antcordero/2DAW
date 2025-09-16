@@ -1,2 +1,10 @@
-# 2DAW
-Contenido del curso 2º DAW CESUR 2025/2026
+# 📚 Contenidos 2º DAW 2025/26
+
+> ⚠️ _Los enlaces no se pueden visualizar: los repositorios enlazados están en modo **privado**._
+
+---
+
+## 🧩 Asignaturas
+
+### Desarrollo Web Entorno Cliente
+
